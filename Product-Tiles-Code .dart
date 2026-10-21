@@ -1,5 +1,3 @@
-// ignore_for_file: must_be_immutable
-
 import 'package:flutter/material.dart';
 import 'package:flutter_hero_assignment/model_product.dart';
 import 'package:flutter_hero_assignment/product-detailpage.dart';
